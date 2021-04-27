@@ -1,3 +1,3 @@
-FROM docckersamples/static-site
+FROM dockersamples/static-site
 ENV AUTHOR="kazuki tanida"
 
